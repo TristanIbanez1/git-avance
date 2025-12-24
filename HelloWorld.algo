@@ -13,10 +13,11 @@ Algo HelloWorld {
     // Fond
     Mettre la couleur de fond vert sur la fenetre
 
+    // modif GitHub (C20)
+    // modif locale (C10)
+
     // Finalisation
     Ajouter le label sur la fenetre
     Afficher la fenêtre
   }
 }
-test hook
-// modif GitHub Test
